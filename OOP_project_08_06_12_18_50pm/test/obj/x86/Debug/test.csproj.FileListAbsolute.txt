@@ -1,0 +1,24 @@
+C:\Users\Mediaportal\AppData\Local\Temporary Projects\test\bin\Debug\test.exe
+C:\Users\Mediaportal\AppData\Local\Temporary Projects\test\bin\Debug\test.pdb
+C:\Users\Mediaportal\AppData\Local\Temporary Projects\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mediaportal\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.exe
+C:\Users\Mediaportal\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.pdb
+C:\Users\Mediaportal\documents\visual studio 2010\Projects\test\test\bin\Debug\test.exe
+C:\Users\Mediaportal\documents\visual studio 2010\Projects\test\test\bin\Debug\test.pdb
+C:\Users\Mediaportal\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mediaportal\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.exe
+C:\Users\Mediaportal\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.pdb
+C:\Users\Tim\Desktop\test\test\obj\x86\Debug\test.exe
+C:\Users\Tim\Desktop\test\test\obj\x86\Debug\test.pdb
+C:\Users\Mediaportal\Dropbox\testoop\test\bin\Debug\test.exe
+C:\Users\Mediaportal\Dropbox\testoop\test\bin\Debug\test.pdb
+C:\Users\Mediaportal\Dropbox\testoop\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mediaportal\Dropbox\testoop\test\obj\x86\Debug\test.exe
+C:\Users\Mediaportal\Dropbox\testoop\test\obj\x86\Debug\test.pdb
+C:\Users\Tim\Dropbox\testoop\test\bin\Debug\test.exe
+C:\Users\Tim\Dropbox\testoop\test\bin\Debug\test.pdb
+C:\Users\Tim\Dropbox\testoop\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Dropbox\testoop\test\obj\x86\Debug\test.exe
+C:\Users\Tim\Dropbox\testoop\test\obj\x86\Debug\test.pdb
+C:\Users\Mediaportal\Documents\Visual Studio 2010\Projects\OOP_project_08_06_12_18_50pm\test\obj\x86\Debug\test.exe
+C:\Users\Mediaportal\Documents\Visual Studio 2010\Projects\OOP_project_08_06_12_18_50pm\test\obj\x86\Debug\test.pdb

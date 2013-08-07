@@ -1,0 +1,12 @@
+C:\Users\Mediaportal\Documents\Visual Studio 2010\Projects\OOP_project_08_06_12_18_50pm\test\bin\Debug\test.exe
+C:\Users\Mediaportal\Documents\Visual Studio 2010\Projects\OOP_project_08_06_12_18_50pm\test\bin\Debug\test.pdb
+C:\Users\Mediaportal\Documents\Visual Studio 2010\Projects\OOP_project_08_06_12_18_50pm\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mediaportal\Documents\Visual Studio 2010\Projects\OOP_project_08_06_12_18_50pm\test\obj\x86\Debug\test.exe
+C:\Users\Mediaportal\Documents\Visual Studio 2010\Projects\OOP_project_08_06_12_18_50pm\test\obj\x86\Debug\test.pdb
+C:\Users\Mediaportal\Dropbox\OOP_project_08_06_12_18_50pm\test\bin\Debug\test.exe
+C:\Users\Mediaportal\Dropbox\OOP_project_08_06_12_18_50pm\test\bin\Debug\test.pdb
+C:\Users\Mediaportal\Dropbox\OOP_project_08_06_12_18_50pm\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mediaportal\Dropbox\OOP_project_08_06_12_18_50pm\test\obj\x86\Debug\test.exe
+C:\Users\Mediaportal\Dropbox\OOP_project_08_06_12_18_50pm\test\obj\x86\Debug\test.pdb
+C:\Users\Mediaportal\Dropbox\Abc_Music\OOP_project_08_06_12_18_50pm\test\obj\x86\Debug\test.exe
+C:\Users\Mediaportal\Dropbox\Abc_Music\OOP_project_08_06_12_18_50pm\test\obj\x86\Debug\test.pdb

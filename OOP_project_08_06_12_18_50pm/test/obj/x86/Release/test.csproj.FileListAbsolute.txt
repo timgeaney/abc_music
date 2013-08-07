@@ -1,0 +1,35 @@
+C:\Users\Mediaportal\AppData\Local\Temporary Projects\test\bin\Release\test.exe
+C:\Users\Mediaportal\AppData\Local\Temporary Projects\test\bin\Release\test.pdb
+C:\Users\Mediaportal\AppData\Local\Temporary Projects\test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mediaportal\AppData\Local\Temporary Projects\test\obj\x86\Release\test.exe
+C:\Users\Mediaportal\AppData\Local\Temporary Projects\test\obj\x86\Release\test.pdb
+C:\Users\Mediaportal\documents\visual studio 2010\Projects\test\test\obj\x86\Release\test.exe
+C:\Users\Mediaportal\documents\visual studio 2010\Projects\test\test\obj\x86\Release\test.pdb
+C:\Users\Mediaportal\documents\visual studio 2010\Projects\test\test\bin\Release\test.exe
+C:\Users\Mediaportal\documents\visual studio 2010\Projects\test\test\bin\Release\test.pdb
+C:\Users\Mediaportal\documents\visual studio 2010\Projects\test\test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\test\test\obj\x86\Release\test.exe
+C:\Users\Tim\Desktop\test\test\obj\x86\Release\test.pdb
+C:\Users\Tim\Desktop\test\test\bin\Release\test.exe
+C:\Users\Tim\Desktop\test\test\bin\Release\test.pdb
+C:\Users\Tim\Desktop\test\test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\testoop\test\obj\x86\Release\test.exe
+C:\Users\Tim\Desktop\testoop\test\obj\x86\Release\test.pdb
+C:\Users\Tim\Desktop\testoop\test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\testoop\test\bin\Release\test.exe
+C:\Users\Tim\Desktop\testoop\test\bin\Release\test.pdb
+C:\Users\Mediaportal\Dropbox\testoop\test\obj\x86\Release\test.exe
+C:\Users\Mediaportal\Dropbox\testoop\test\obj\x86\Release\test.pdb
+C:\Users\Mediaportal\Dropbox\testoop\test\bin\Release\test.exe
+C:\Users\Mediaportal\Dropbox\testoop\test\bin\Release\test.pdb
+C:\Users\Mediaportal\Dropbox\testoop\test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tim\Dropbox\testoop\test\obj\x86\Release\test.exe
+C:\Users\Tim\Dropbox\testoop\test\obj\x86\Release\test.pdb
+C:\Users\Tim\Dropbox\testoop\test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tim\Dropbox\testoop\test\bin\Release\test.exe
+C:\Users\Tim\Dropbox\testoop\test\bin\Release\test.pdb
+F:\testoop\test\obj\x86\Release\test.exe
+F:\testoop\test\obj\x86\Release\test.pdb
+F:\testoop\test\bin\Release\test.exe
+F:\testoop\test\bin\Release\test.pdb
+F:\testoop\test\obj\x86\Release\ResolveAssemblyReference.cache
